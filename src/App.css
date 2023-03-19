@@ -1,0 +1,16 @@
+@media (max-width: 750px) {
+  .form-custom {
+    width: 100%;
+  }
+}
+.cake {
+  font-size: 300px;
+}
+
+.form-custom {
+  width: 65%;
+}
+
+nav.navbar {
+  background-color: #CC1414;
+}
